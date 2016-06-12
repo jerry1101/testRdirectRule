@@ -63,6 +63,7 @@ public class TestUserAgent {
 		 
 		 } catch (URISyntaxException e) {
 				// TODO Auto-generated catch block
+			 System.out.println("tese");
 				e.printStackTrace();
 			}finally {
 		     try {
